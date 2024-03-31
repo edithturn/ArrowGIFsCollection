@@ -35,73 +35,50 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="yellow/arrow_down_yellow_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="yellow/arrow_down_yellow_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="yellow/arrow_down_yellow_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="yellow/arrow_down_yellow_0.5s.gif" alt="0.5s" width="4%">
+<img src="yellow/arrow_down_yellow_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="yellow/arrow_down_yellow_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="yellow/arrow_down_yellow_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="yellow/arrow_down_yellow_0.5s.gif" alt="0.5s" width="4%">
 
 ## Green
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="green/arrow_down_green_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="green/arrow_down_green_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="green/arrow_down_green_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="green/arrow_down_green_0.5s.gif" alt="0.5s" width="4%">
+<img src="green/arrow_down_green_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="green/arrow_down_green_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="green/arrow_down_green_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="green/arrow_down_green_0.5s.gif" alt="0.5s" width="4%">
 
 ## Cyan
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="cyan/arrow_down_cyan_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="cyan/arrow_down_cyan_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="cyan/arrow_down_cyan_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="cyan/arrow_down_cyan_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
+<img src="cyan/arrow_down_cyan_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="cyan/arrow_down_cyan_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="cyan/arrow_down_cyan_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="cyan/arrow_down_cyan_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## Blue
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="blue/arrow_down_blue_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="blue/arrow_down_blue_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="blue/arrow_down_blue_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="blue/arrow_down_blue_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
+<img src="blue/arrow_down_blue_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="blue/arrow_down_blue_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="blue/arrow_down_blue_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="blue/arrow_down_blue_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## Magenta
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="magenta/arrow_down_magenta_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="magenta/arrow_down_magenta_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="magenta/arrow_down_magenta_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="magenta/arrow_down_magenta_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
+<img src="magenta/arrow_down_magenta_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="magenta/arrow_down_magenta_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="magenta/arrow_down_magenta_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="magenta/arrow_down_magenta_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## White
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="white/arrow_down_white_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="white/arrow_down_white_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="white/arrow_down_white_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
+<img src="white/arrow_down_white_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="white/arrow_down_white_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="white/arrow_down_white_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
 <img src="white/arrow_down_white_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## Black
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="black/arrow_down_black_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="black/arrow_down_black_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="black/arrow_down_black_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="black/arrow_down_black_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
+<img src="black/arrow_down_black_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="black/arrow_down_black_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="black/arrow_down_black_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="black/arrow_down_black_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## Grey
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="grey25/arrow_down_grey25_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
-<img src="grey25/arrow_down_grey25_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
-<img src="grey25/arrow_down_grey25_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;">
-<img src="grey25/arrow_down_grey25_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
+<img src="grey25/arrow_down_grey25_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="grey25/arrow_down_grey25_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="grey25/arrow_down_grey25_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="grey25/arrow_down_grey25_0.5s.gif" alt="0.5s" width="4%" style="margin-right: 14px;">
 
 ## How to use it?
 
