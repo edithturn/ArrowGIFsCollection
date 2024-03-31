@@ -6,20 +6,18 @@ This is a basic collection of animated arrow GIFs, perfect for web pages, presen
     <img src="example/GIF-example.gif" style="width: 60%; height: auto;">
   </p>
   
-I've been frequently asked about how I create my GIFs. One question I received at [FOSDEM](https://fosdem.org/2024/) in one of my talks was, "How do you make those animated GIFs, and what tools do you use? 🤔 "
+I've been frequently asked "How do you make those animated GIFs, and what tools do you use? 🤔 "
 
-Before work on it I asked myself the same question, but I didn't receive an answer that could help me create these graphs, so I decided to do it on my own.
+I had myself the same question in the pass, but I didn't find any solution for me, so I decided to do it on my own.
 
 **Note**: There are indeed better options available, including paid and easier ones. However, this repository is designed with those in mind who can only use free tools.
 
 Here's what I used for the above GIF example:
 
-- Canva (Free Version) for basic designs and free GIFs, like spinning arrows.
-- Adobe Photoshop for generating animated arrows, which are not available in Canva's free version.
+- [Canva](https://www.canva.com/) (Free Version) for basic designs and free GIFs, like spinning arrows.
+- Adobe Photoshop for generating animated arrows, which are not available in Canva's free version, maybe but not any that I liked it 🙃.
 
-That's it! 🙃
-
-_It's come to my attention that not everyone has access to the tools necessary for creating animated arrows that bring technical GIFs to life and help explain concepts._
+🌼🌸 _It's come to my attention that not everyone has access to the tools necessary for creating animated arrows that bring technical GIFs to life and help explain concepts._
 
 To meet this need, I've created a simple set of colorful arrows. Now, you can quickly turn ideas into GIFs without getting stuck due to a lack of an arrow.
 
