@@ -29,7 +29,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 0s - 0.1s - 0.2s - 0.5s
 
-<img src="red/arrow_down_red_0s.gif" alt="0a" width="4%"><img src="red/arrow_down_red_0.1s.gif" alt="0.1s" width="4%"><img src="red/arrow_down_red_0.2s.gif" alt="0.2s" width="4%"><img src="red/arrow_down_red_0.5s.gif" alt="0.5s" width="4%">
+<img src="red/arrow_down_red_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.5s.gif" alt="0.5s" width="4%">
 
 ## Yellow
 
@@ -42,7 +42,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Green
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="green/arrow_down_green_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="green/arrow_down_green_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -51,7 +51,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Cyan
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="cyan/arrow_down_cyan_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="cyan/arrow_down_cyan_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -60,7 +60,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Blue
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="blue/arrow_down_blue_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="blue/arrow_down_blue_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -69,7 +69,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Magenta
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="magenta/arrow_down_magenta_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="magenta/arrow_down_magenta_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -78,7 +78,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## White
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="white/arrow_down_white_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="white/arrow_down_white_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -87,7 +87,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Black
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="black/arrow_down_black_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="black/arrow_down_black_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -96,7 +96,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## Grey
 
-| 0s | 0.1s | 0.2s | 0.5s |
+0s - 0.1s - 0.2s - 0.5s
 
 <img src="grey25/arrow_down_grey25_0s.gif" alt="0a" width="4%" style="margin-right: 14px;">
 <img src="grey25/arrow_down_grey25_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;">
@@ -105,12 +105,14 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 ## How to use it?
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/edithturn/ArrowGIFsCollection.git
 cd ArrowGIFsCollection
 ```
+
+2.  Drag and Drop in Canva
 
 Explore the directories, choose the arrow you want, and drag and drop it into Canva! Enjoy and bring your creativity to life now!
 
