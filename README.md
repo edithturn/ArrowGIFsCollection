@@ -29,7 +29,7 @@ You'll see that arrows are categorized by colors (red, green, cyan, blue, magent
 
 | 0s | 0.1s | 0.2s | 0.5s |
 
-<img src="red/arrow_down_red_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.5s.gif" alt="0.5s" width="4%">
+<img src="red/arrow_down_red_0s.gif" alt="0a" width="4%" style="margin-right: 14px;"><img src="red/arrow_down_red_0.1s.gif" alt="0.1s" width="4%" style="margin-right: 16px;"><img src="red/arrow_down_red_0.2s.gif" alt="0.2s" width="4%" style="margin-right: 20px;"><img src="red/arrow_down_red_0.5s.gif" alt="0.5s" width="4%">
 
 ## Yellow
 
